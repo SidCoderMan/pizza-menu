@@ -143,7 +143,7 @@ const Order = (props) => {
   return (
     <div className="order">
       <p>
-        1234 Skibidi Lane | Support | 128-435-5555 | Open from 10 AM - 10 PM |
+        1234 Fake Lane | Support | 128-435-5555 | Open from 10 AM - 10 PM |
         <b>
           {isOpen
             ? " We are Currently Open Come Check Us Out!"
