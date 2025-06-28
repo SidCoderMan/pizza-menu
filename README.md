@@ -1,5 +1,7 @@
 This Project was made following the "The Ultimate React Course 2025: React, Next.js, Redux & More" by Jonas Schmedtmann
 
+Learnt Components and Props in this pizza-menu React project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
